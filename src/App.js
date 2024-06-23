@@ -25,7 +25,7 @@ import React,{useState} from "react";
 onClick={()=>changeColor(index)}*/
 
 
-     alert("kawkawwwwwwwwwwww");
+     alert("kawkawwwwwwwwwwwwwa3333333333333");
     };
 
     return(
